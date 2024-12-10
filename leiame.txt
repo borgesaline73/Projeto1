@@ -1,0 +1,2 @@
+Primeiro projeto html do curso de Programação Web da Udemy. Códigos simples para criação de
+uma página web de uma universidade para fins de treino do aprendizado.
